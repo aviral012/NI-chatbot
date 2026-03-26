@@ -9,7 +9,7 @@ REM  EDIT THESE LINES — your configuration
 REM ══════════════════════════════════════════════════════════════
 
 REM Your OpenAI API key
-set OPENAI_API_KEY=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
+set OPENAI_API_KEY= 'API Key'
 
 REM Path to your parquet data folder
 REM This folder must contain:
